@@ -4,7 +4,7 @@
 This project is a **Database Management System (DBMS)** designed to streamline hospital operations.  
 It efficiently manages **patients, doctors, medical records, departments, and staff salaries**, demonstrating solid **SQL database design and relational integrity**.
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Language**: SQL 
 
 ## Features
