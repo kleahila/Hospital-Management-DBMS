@@ -17,7 +17,7 @@ It efficiently manages **patients, doctors, medical records, departments, and st
 ## **Setup & Usage**
 
 **1. Clone the Repository**  
-**2. Create the Database**
-**3. Insert Sample Data**
-**4. Run Managerial Queries**
+**2. Create the Database**  
+**3. Insert Sample Data**  
+**4. Run Managerial Queries**  
 
